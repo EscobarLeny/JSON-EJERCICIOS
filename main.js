@@ -59,3 +59,4 @@ fetch('https://jsonplaceholder.typicode.com/posts')
         document.getElementById('posts').innerHTML = elementos;
     })
 
+x = 0
